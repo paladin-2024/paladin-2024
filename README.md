@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paladin-2024
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning computer ssciemce
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on Clarity Platform
 - 📫 How to reach me uganda.kampala
 - 😄 Pronouns: caleb
 - ⚡ Fun fact: darkMan
