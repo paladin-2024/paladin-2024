@@ -20,13 +20,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on [Horizon](https://github.com/paladin-2024/Horizon)
+- 🔭 I’m currently working on [NzARVIS](https://github.com/paladin-2024/NzARVIS-)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **React, Spring Boot**
 
-- 👯 I’m looking to collaborate on **Mobile Development Projects**
+- 👯 I’m looking to collaborate on **Mobile Development Projects, and AI**
 
-- 🤝 I’m looking for help with **Kotlin, DevOps**
+- 🤝 I’m looking for help with **REact, Bash**
 
 - 👨‍💻 All of my projects are available at [https://github.com/paladin-2024](https://github.com/paladin-2024)
 
