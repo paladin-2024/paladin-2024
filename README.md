@@ -22,11 +22,11 @@
 
 - 🔭 I’m currently working on [NzARVIS](https://github.com/paladin-2024/NzARVIS-)
 
-- 🌱 I’m currently learning **React, Spring Boot**
+- 🌱 I’m currently learning **NextJS, Spring Boo, Flutter**
 
 - 👯 I’m looking to collaborate on **Mobile Development Projects, and AI**
 
-- 🤝 I’m looking for help with **REact, Bash**
+- 🤝 I’m looking for help with **Prompt Engineering and AI agents development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/paladin-2024](https://github.com/paladin-2024)
 
