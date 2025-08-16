@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on [NzARVIS](https://github.com/paladin-2024/NzARVIS-)
 
-- 🌱 I’m currently learning **NextJS, Spring Boo, Flutter**
+- 🌱 I’m currently learning **NextJS, Spring Boot, Flutter**
 
 - 👯 I’m looking to collaborate on **Mobile Development Projects, and AI**
 
