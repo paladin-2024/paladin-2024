@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Caleb Ikuzo</h1>
+<h1 align="center">Hi 👋, I'm Nzabanita Caleb</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone..👋;++;Software+Engineer+Stdent,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
