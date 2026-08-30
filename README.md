@@ -30,9 +30,6 @@
 - 📫 How to reach me **cnzabb@gmail.com**
 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/paladin-2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="paladin-2024" height="30" width="40" /></a>
