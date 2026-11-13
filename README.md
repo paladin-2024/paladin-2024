@@ -56,7 +56,6 @@
   </a>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paladin-2024&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/paladin-2024)
 
 
 
